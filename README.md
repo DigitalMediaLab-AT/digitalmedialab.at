@@ -1,10 +1,11 @@
 # Website for digitalmedialab.at
 
-[Jenkyll Website](https://jekyllrb.com/) for the Digital Media Lab (DML) research group, online at [digitalmedialab.at](digitalmedialab.at). The domain is registered with World4You and hosted on GitHub-Pages. The setup is such that every change in the repository is directly applied online by GitHub-Pages. Content is stored file-based: mostly Markdown (.md) and YML (.yml) files.
+[Jenkyll Website](https://jekyllrb.com/) for the Digital Media Lab (DML) research group, online at [digitalmedialab.at](digitalmedialab.at). The domain is registered with World4You and hosted on GitHub-Pages. The repository is directly published online by GitHub-Pages. Content is stored file-based: mostly Markdown (.md) and YML (.yml) files.
 
 ## Open Points | Discussions | ToDos
 
 - [ ] Remove any PIE related meta-data, links, names, ...
+- [ ] Update contact form.
 - [ ] How to handle people and project categories?
 - [ ] Should we add people and teams (automatically) via people to projects and areas?
 
@@ -60,4 +61,4 @@ To go a step further and upgrade all dependencies in `package.json` to their lat
 
 # Acknowledgements
 
-This website is based on the pie-lab website designed, developed and maintained by Thomas Heller and Wolfgang Hochleitner among others. Thanks to them for the great work and the permission to use their code as a starting point for this website!
+This website is based on the pie-lab website designed, developed and maintained by Thomas Heller and Wolfgang Hochleitner, among others. Thanks to them for the great work and the permission to use their code as a starting point for this website!
