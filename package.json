@@ -1,0 +1,74 @@
+{
+  "name": "pie-lab.at",
+  "version": "2.0.0",
+  "description": "Packaging module for the Playful Interactive Environments website.",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": {
+    "name": "Thomas Heller",
+    "email": "office@thomasheller.net",
+    "url": "https://thomasheller.net/"
+  },
+  "contributors": [
+    {
+      "name": "Wolfgang Hochleitner",
+      "email": "wolfgang@hochleitner.cc",
+      "url": "https://about.me/wolfgang.hochleitner"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Playful-Interactive-Environments/pie-lab.at"
+  },
+  "bugs": {
+    "url": "https://github.com/Playful-Interactive-Environments/pie-lab.at/issues"
+  },
+  "keywords": [
+    "Playful Interactive Environments",
+    "PIE",
+    "website",
+    "Hagenberg",
+    "research"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babelify": "^10.0.0",
+    "browserify": "^17.0.0",
+    "chalk": "^5.1.2",
+    "dateformat": "^5.0.3",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-react": "^7.31.10",
+    "gulp": "^4.0.2",
+    "gulp-buffer": "0.0.2",
+    "gulp-cached": "^1.1.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint-new": "^1.1.2",
+    "gulp-filter": "^6.0.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-remember": "^1.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gutil": "^1.6.4",
+    "merge2": "^1.4.1",
+    "require-dir": "^1.2.0",
+    "run-sequence": "^2.2.1",
+    "sass": "^1.55.0",
+    "stylelint": "^14.14.0",
+    "stylelint-config-standard-scss": "^6.0.0",
+    "through2": "^4.0.2",
+    "undertaker-forward-reference": "^2.0.0",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^4.0.0",
+    "yargs": "^17.6.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
+}

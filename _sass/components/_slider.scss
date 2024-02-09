@@ -1,0 +1,60 @@
+.gallery {
+  min-height: 70vh;
+  background-color: #0f0f0f;
+}
+
+.gallery-cell {
+  width: 100vw;
+  min-height: 70vh;
+  background-size: cover;
+  background-position: center;
+  padding: 2em 3em 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.flickity-page-dots {
+  bottom: 20px;
+
+  .dot {
+    background-color: $secondary-color;
+    margin: 0 6px;
+
+    &.is-selected {
+      opacity: 0.5;
+    }
+  }
+}
+
+.flickity-button {
+  background: transparent;
+
+  &:hover {
+    background: transparent;
+  }
+}
+
+.flickity-prev-next-button {
+  height: 100%;
+  border-radius: initial;
+  opacity: 0.5;
+
+  svg {
+    fill: #fff;
+  }
+}
+
+.flickity-prev-next-button .flickity-button-icon {
+  width: 100%;
+  left: 0;
+}
+
+.flickity-prev-next-button.previous {
+  left: 0;
+}
+
+.flickity-prev-next-button.next {
+  right: 0;
+}

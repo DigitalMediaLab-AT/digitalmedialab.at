@@ -1,0 +1,39 @@
+.people-grouplabel {
+  overflow: hidden;
+}
+
+.people-group {
+  margin-top: 1.5em;
+  margin-bottom: 3.5em;
+  grid-template-columns: 1fr;
+  grid-gap: 2em;
+
+  @media (min-width: $screen-lg) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.staff {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 1.5em;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 1.5em;
+
+  @media (min-width: $screen-sm) {
+    grid-template-columns: auto 1fr;
+  }
+}
+
+.staff-name {
+  font-size: 1.2em;
+  margin-bottom: 0.4em;
+}
+
+.staff-phone,
+.staff-email,
+.staff-projects {
+  font-size: 0.8em;
+  margin-top: 0;
+}

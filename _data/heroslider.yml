@@ -1,0 +1,20 @@
+- file: "assets/campus.jpg"
+  title: "Digital Media Lab"
+  subtitle: "A research group at the<br>University of Applied Sciences Upper Austria."
+  more:
+    label: "Get in touch"
+    link: "/contact/"
+
+- file: "projects/bambi/bambi-header.jpg"
+  title: "BAMBI"
+  subtitle: "The BAMBI project uses camera drones together with artificial intelligence to automatically monitor wildlife."
+  more:
+    label: "Learn more"
+    link: "/projects/bambi/"
+
+- file: "projects/catrina/catrina-approaching.jpg"
+  title: "CATRINA"
+  subtitle: "Exploring gender and diversity-specific aspects in the context of moral courage-driven actions<br />using a virtual reality game-based approach."
+  more:
+    label: "Learn more"
+    link: "/projects/catrina/"

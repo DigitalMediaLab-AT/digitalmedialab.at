@@ -1,0 +1,34 @@
+.partners {
+  margin-top: 1.5em;
+  grid-template-columns: 1fr;
+  grid-gap: 2em;
+
+  @media (min-width: $screen-sm) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: $screen-md) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media (min-width: $screen-lg) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  @media (min-width: $screen-xl) {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+.partner {
+  justify-self: center;
+
+  a {
+    display: block;
+    background-color: #fff;
+  }
+
+  img {
+    border-radius: 5px;
+  }
+}
