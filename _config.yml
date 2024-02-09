@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: DML | Digital Media Lab 
+title: DML | Digital Media Lab
 email: dml@fh-hagenberg.at
 description: Digital Media Lab (DML) - advancing the frontiers of digital interactions through innovative research in UX design, spatial computing, large language model applications, web applications, and process mining.
 #baseurl: "/pie.fh-hagenberg.at" # the subpath of your site, e.g. /blog
-url: "schedldave.github.io/dml-test.at/" # LATER: "https://digitalmedialab.at" # the base hostname & protocol for your site
+url: https://www.digitalmedialab.at" # the base hostname & protocol for your site
 #facebook: playful.interactive.environments
 
 # Build settings
@@ -19,11 +19,7 @@ kramdown:
   input: GFM
 excerpt_separator: "" #disable excerpts
 
-exclude: [
-  "package.json",
-  "node_modules",
-  "gulpfile"
-]
+exclude: ["package.json", "node_modules", "gulpfile"]
 
 plugins:
   - jekyll-feed
