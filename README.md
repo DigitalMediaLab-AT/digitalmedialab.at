@@ -2,6 +2,12 @@
 
 [Jenkyll Website](https://jekyllrb.com/) for the Digital Media Lab (DML) research group, online at [digitalmedialab.at](digitalmedialab.at). The domain is registered with World4You and hosted on GitHub-Pages. The setup is such that every change in the repository is directly applied online by GitHub-Pages. Content is stored file-based: mostly Markdown (.md) and YML (.yml) files.
 
+## Open Points | Discussions | ToDos
+
+- [ ] Remove any PIE related meta-data, links, names, ...
+- [ ] How to handle people and project categories?
+- [ ] Should we add people and teams (automatically) via people to projects and areas?
+
 ## Notes on the Setup
 
 `_sass` and `_js` contain the source files. The `css` and `js` folders and their content are only held in this repository to provide them for gh-pages. These tasks aren’t included in the Jekyll build itself, so setting up a development machine is recommended. See the instructions for Windows and Mac OS X below.
