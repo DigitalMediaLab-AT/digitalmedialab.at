@@ -5,6 +5,7 @@
 ## Open Points | Discussions | ToDos
 
 - [ ] Remove any PIE related meta-data, links, names, ...
+- [ ] Get a common E-Mail (i.e., dml@fh-hagenberg.at)
 - [ ] Update contact form.
 - [ ] How to handle people and project categories?
 - [ ] Should we add people and teams (automatically) via people to projects and areas?
@@ -17,7 +18,7 @@
 
 If you want to make considerable changes to the website please test them first with a local setup.
 
-These are the complete instructions for a development machine running under Microsoft Windows. The instructions should be very similar for any other operating system.
+These are the complete instructions for a development machine running under Microsoft Windows. The instructions should be very similar for any other operating system and have been verified on [Google Colab](https://colab.research.google.com/github/DigitalMediaLab-AT/digitalmedialab.at/blob/main/test_setup_GoogleColab.ipynb) (see [test_setup_GoogleColab](test_setup_GoogleColab.ipynb)).
 
 ### Install Git and Clone the Repository
 
@@ -33,15 +34,6 @@ Once Ruby is installed, install Jekyll and its necessary plugins using [Bundler]
 
 For further details, see [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/).
 
-### (Not needed anymore!?) Install Node.js
-
-Node.js is used for the Gulp build workflow and to compile SASS (and other things). Go to [https://nodejs.org/](https://nodejs.org/) and download the current version and install it. The LTS version (usually older) is not required.
-
-### (Not needed anymore!?) Install the Dependencies for the Build Process
-
-First, install the Gulp.js CLI globally: `npm install gulp-cli -g`.
-Open a Terminal window and go to the directory where you cloned the repository (e.g., `C:\Users\[User]\Documents\GitHub\pie-lab.at`). Type in `npm install` to install all necessary dependencies.
-
 ### Start the Build System
 
 The build workflow then uses bundle and can be started with: `bundle exec jekyll serve`.
@@ -52,12 +44,6 @@ A local server should be running at the address http://127.0.0.1:4000 and can be
 The packages used throughout the site are from the Ruby (gem) and Node.js (npm) ecosystems. They need to be updated separately.
 
 To update all Ruby gems involved, run `bundle update`. To remove (now unused) older versions, type `gem cleanup`.
-
-## (Not needed anymore!?) Update Node.js Dependencies
-
-To update all Node.js modules involved, run `npm update`.
-
-To go a step further and upgrade all dependencies in `package.json` to their latest available versions, use `npm-check-updates -u` (install first if not available: `npm install -g npm-check-updates`). This will create an updated `package.json`. Ensure that the previous version is stored in version control since npm-check-updates will overwrite it.
 
 # Acknowledgements
 
