@@ -12,7 +12,8 @@
   phone: +43 (0)50804 22127
   email: david.schedl@fh-hagenberg.at
   projects: [BAMBI, TexEdge]
-  areas: [Visual Computing, Tangible Interfaces]
+  areas:
+    [Visual Computing, Tangible Interfaces, Spatial Computing and Mixed Reality]
 
 - name: Dr. Kathrin Probst
   group: 1
