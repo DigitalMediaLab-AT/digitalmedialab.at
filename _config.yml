@@ -19,7 +19,14 @@ kramdown:
   input: GFM
 excerpt_separator: "" #disable excerpts
 
-exclude: ["package.json", "node_modules", "gulpfile"]
+exclude:
+  [
+    "package.json",
+    "node_modules",
+    "gulpfile",
+    "drafts",
+    "test_setup_GoogleColab.ipynb",
+  ]
 
 plugins:
   - jekyll-feed
