@@ -5,25 +5,16 @@ category: 1
 
 subpage: false
 
-titleimage: "bike-n-play-preview.jpg"
+titleimage: "drone_snow-preview.jpg"
 
 gallery:
+  - file: "drone_snow.jpg"
 
-  - file: "bike-n-play-bicycle.jpg"
+    preview: "drone_snow-preview.jpg"
 
-    preview: "bike-n-play-bicycle-150.jpg"
+    description: "A drone flying in winter"
 
-    description: "Man with bike using the Bike'N'Play application"
-
-    author: "AIT Austrian Institute of Technology / Michael Bösendorfer"
-
-  - file: "bike-n-play-wearable.jpg"
-
-    preview: "bike-n-play-wearable-150.jpg"
-
-    description: "Bike'N'Play smartwatch mockup"
-
-    author: "FluidTime"
+    author: "FH OÖ | Christoph Praschl"
 ---
 
 ### Welcome to "Visual Computing"
