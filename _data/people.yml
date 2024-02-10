@@ -1,3 +1,11 @@
+- name: Dr. Andreas Stöckl
+  group: 1
+  photo: andreas-stoeckl.jpg
+  phone: +43 (0)50804 22129
+  email: andreas.stoeckl@fh-hagenberg.at
+  projects: [BAMBI, TexEdge]
+  areas: [Visual Computing, Tangible Interfaces]
+
 - name: Dr. David Schedl
   group: 1
   photo: david-schedl.jpg
@@ -5,6 +13,13 @@
   email: david.schedl@fh-hagenberg.at
   projects: [BAMBI, TexEdge]
   areas: [Visual Computing, Tangible Interfaces]
+
+- name: Dr. Kathrin Probst
+  group: 1
+  photo: kathrin-probst.jpg
+  email: kathrin.probst@fh-hagenberg.at
+  projects: [BAMBI, TexEdge]
+  areas: [Tangible Interfaces]
 
 - name: Dr. Michael Lankes
   group: 1
@@ -81,3 +96,16 @@
   email: andrea.aschauer@fh-hagenberg.at
   projects: [BAMBI, The Virtual House of Medusa, Bike'N'Play, PIEdeck]
   areas: [Games and Playful Experiences]
+
+- name: Leopold Böss, MSc
+  group: 3
+  photo: leopold-boess.jpg
+  email: leopold.boess@fh-hagenberg.at
+  projects: [BAMBI]
+
+- name: Christoph Praschl, MSc
+  group: 3
+  phone: +43 (0)50804 27150
+  photo: christoph-praschl.jpg
+  email: christoph.praschl@fh-hagenberg.at
+  projects: [BAMBI]
