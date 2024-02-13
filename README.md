@@ -9,6 +9,7 @@
 - [ ] Update contact form.
 - [ ] How to handle people and project categories?
 - [ ] Should we add people and teams (automatically) via people to projects and areas?
+- [ ] Metadata for people (personal website, ORCID, ...)
 
 ## Notes on the Setup
 
