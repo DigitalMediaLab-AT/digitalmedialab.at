@@ -8,13 +8,13 @@ subpage: false
 titleimage: "teaser-preview.png"
 
 gallery:
-  - file: "teaser.png"
+  - file: "IUI_wide.jpg"
 
-    preview: "teaser-preview.png"
+    preview: "IUI_wide.jpg"
 
-    description: "A preview for the research group"
+    description: "Intelligent User Interfaces"
 
-    author: "FH OÖ | David Schedl"
+    author: "Philipp Wintersberger"
 ---
 
 # Designing Interfaces to Support Humans in a Technology- and AI-centered World
