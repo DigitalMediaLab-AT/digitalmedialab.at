@@ -17,7 +17,7 @@ gallery:
     author: "FH OÖ | David Schedl"
 ---
 
-# Designing Artificial Intelligence for Humans
+# Designing Interfaces to Support Humans in a Technology- and AI-centered World
 
 The perspectives on Artificial Intelligence (AI) are often technology-centered and tend to leave the humans out of the equation. However, it are the humans (i.e., us) that have to deal with these technologies. The recent advances in AI allow using these technologies to build a novel class of interactive systems. Intelligent User Interfaces (IUIs) are interfaces that either (1) make AI more usable to end users or (2) use AI to to improve human-computer interaction, with the ultimate goal to make AI systems more usable, trustworthy, explainable, and thus, successful. 
 
