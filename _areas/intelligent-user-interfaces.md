@@ -5,7 +5,7 @@ category: 1
 
 subpage: false
 
-titleimage: "teaser-preview.png"
+titleimage: "IUI_wide_preview.jpg"
 
 gallery:
   - file: "IUI_wide.jpg"
