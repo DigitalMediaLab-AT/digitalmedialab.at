@@ -10,11 +10,7 @@ titleimage: "teaser-preview.png"
 gallery:
   - file: "IUI_wide.jpg"
 
-    preview: "IUI_wide.jpg"
-
-    description: "Intelligent User Interfaces"
-
-    author: "Philipp Wintersberger"
+    preview: "IUI_wide_preview.jpg"
 ---
 
 # Designing Interfaces to Support Humans in a Technology- and AI-centered World
