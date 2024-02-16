@@ -17,16 +17,23 @@ gallery:
     author: "FH OÖ | David Schedl"
 ---
 
-# AI for Humans
+# Designing Artificial Intelligence for Humans
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+The perspectives on Artificial Intelligence (AI) are often technology-centered and tend to leave the humans out of the equation. However, it are the humans (i.e., us) that have to deal with these technologies. The recent advances in AI allow using these technologies to build a novel class of interactive systems. Intelligent User Interfaces (IUIs) are interfaces that either (1) make AI more usable to end users or (2) use AI to to improve human-computer interaction, with the ultimate goal to make AI systems more usable, trustworthy, explainable, and thus, successful. 
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Our interdisciplinary team consists of computer and cognitive scientists, and our cutting-edge research projects focus on using state-of-the-art technologies for supervised, unsupervised, and reinforcement learning for novel design concepts, tools, or services. For example, in the FWF-funded basic research project "AITentive", we research how computer systems can improve their communication to users by integrally considering their attention in the timing of interruptions and notifications (so-called "Attention Management Systems", AMSs). While existing systems typically communicate new information as soon as it becomes available, AMSs learn when communication is most beneficial for the user. In the future, these systems can help to boost our productivity and well-being while reducing stress levels in a great variety of contexts, ranging from safety-critical areas like driving and industry to office workspaces and private environments. 
 
-## Heading 2
+We also offer scientific evaluation of computer systems and user interfaces or Human-in-the-Loop simulations. Thereby, we use state-of-the art techniques such as eye-tracking, psychio-physiological measurements (skin conductance, respiration, heart rate variability, etc.) to be able to identify the effects on human users. 
 
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+We also incorporate the results of our project and recent advances in this field into our teaching activities. Students learn how AI systems can be considered methods to augment and extend human capabilities, rather than being a danger for our societies. Doing so provides the next generation of developers with the necessary knowledge to criticially assess AI and use it to improve the work- and interaction flows - that is, providing a sequence of technology touchpoints in space and time that are of genuine value for end users. 
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.
+## Main Research Focus
 
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
+- AI-driven interaction design
+- Attention management
+- Computational rationality and user modeling
+- Explainable artificial intelligence
+- Trust calibration for more trustworthy AI
+- Dynamic task distribution between humans and machines
+- User interfaces in safety-critical domains such as automotive, avaiation, or industry
+- Human-in-the-loop simulator development and simulation
