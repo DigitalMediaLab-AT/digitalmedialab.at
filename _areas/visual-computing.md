@@ -16,8 +16,6 @@ gallery:
 
     author: "FH OÖ | Christoph Praschl"
 ---
-> Unveiling the Gamma of Visual Computing
-
 Join us at the crossroads of computer science, graphics, and human perception—the "Visual Computing" research team in Hagenberg. Our core competencies traverse diverse visual computation fields.
 
 With advanced techniques such as drones and camera traps, we monitor biodiversity and human-induced ecological impacts. We capitalize on deep-learning and object detection algorithms, including sophisticated scene reconstruction methods, for wildlife ecology applications. 
