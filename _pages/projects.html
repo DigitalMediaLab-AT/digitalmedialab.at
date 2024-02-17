@@ -5,11 +5,25 @@ permalink: /projects/
 
 <div class="wrapper projects">
   <h1>Projects</h1>
-  {% for projectCategory in site.data.projectcategories %}
-    {% assign projectInCategory = site.projects | where: "category", projectCategory.id | sort: "date" | reverse %}
-    <h2 class="projects-grouplabel">{{projectCategory.labelplural}}</h2>
+  {% assign currentDate = site.time | date: "%s" | to_integer %}
+  <!-- current date: {{currentDate}}-->
+  {% for i in (1..2) %}
+    {% assign projects = site.projects | sort: date | reverse %}
+    <h2 class="projects-grouplabel">
+      {%- if i == 1 -%}
+        Ongoing Projects
+      {%- else -%}
+        Finished Projects
+      {%- endif -%}
+    </h2>
     <div class="projects-group grid-wrapper">
-    {% for project in projectInCategory %}
+    {% for project in projects %}
+      {% assign projectEnd = project.end | date: "%s" | to_integer %}
+      {% if i == 1 and projectEnd < currentDate %}
+        {% continue %}
+      {% elsif i == 2 and projectEnd > currentDate %}
+        {% continue %}
+      {% endif %}
       <div class="projects-item">
         {% if project.titleimage %}
           {% assign remote = project.titleimage | slice: 0, 4 %}
