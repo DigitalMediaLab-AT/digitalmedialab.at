@@ -5,7 +5,8 @@
   email: andreas.stoeckl@fh-hagenberg.at
   pure: andreas-stöckl
   projects: [BAMBI, TexEdge]
-  areas: [Visual Computing, Tangible Interfaces]
+  areas:
+    [Visual Computing, Tangible Interfaces, Large Language Model Applications]
 
 - name: David Schedl
   group: 1
@@ -13,6 +14,7 @@
   phone: +43 (0)50804 22127
   email: david.schedl@fh-hagenberg.at
   pure: david-christian-schedl
+  orcid: 0000-0002-7621-3526
   projects: [BAMBI, TexEdge]
   areas:
     [Visual Computing, Tangible Interfaces, Spatial Computing and Mixed Reality]
