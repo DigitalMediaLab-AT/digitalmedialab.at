@@ -4,7 +4,7 @@
   phone: +43 (0)50804 22129
   email: andreas.stoeckl@fh-hagenberg.at
   pure: andreas-stöckl
-  projects: [BAMBI, TexEdge]
+  projects: [BAMBI, TEXEDGE]
   areas:
     [Visual Computing, Tangible Interfaces, Large Language Model Applications]
 
@@ -15,7 +15,7 @@
   email: david.schedl@fh-hagenberg.at
   pure: david-christian-schedl
   orcid: 0000-0002-7621-3526
-  projects: [BAMBI, TexEdge]
+  projects: [BAMBI, TEXEDGE]
   areas:
     [Visual Computing, Tangible Interfaces, Spatial Computing and Mixed Reality]
 
@@ -23,7 +23,7 @@
   group: 1
   photo: kathrin-probst.jpg
   email: kathrin.probst@fh-hagenberg.at
-  projects: [BAMBI, TexEdge]
+  projects: [BAMBI, TEXEDGE]
   areas: [Tangible Interfaces]
 
 - name: Michael Lankes
