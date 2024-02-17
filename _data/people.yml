@@ -1,28 +1,30 @@
-- name: Dr. Andreas Stöckl
+- name: Andreas Stöckl
   group: 1
   photo: andreas-stoeckl.jpg
   phone: +43 (0)50804 22129
   email: andreas.stoeckl@fh-hagenberg.at
+  pure: andreas-stöckl
   projects: [BAMBI, TexEdge]
   areas: [Visual Computing, Tangible Interfaces]
 
-- name: Dr. David Schedl
+- name: David Schedl
   group: 1
   photo: david-schedl.jpg
   phone: +43 (0)50804 22127
   email: david.schedl@fh-hagenberg.at
+  pure: david-christian-schedl
   projects: [BAMBI, TexEdge]
   areas:
     [Visual Computing, Tangible Interfaces, Spatial Computing and Mixed Reality]
 
-- name: Dr. Kathrin Probst
+- name: Kathrin Probst
   group: 1
   photo: kathrin-probst.jpg
   email: kathrin.probst@fh-hagenberg.at
   projects: [BAMBI, TexEdge]
   areas: [Tangible Interfaces]
 
-- name: Dr. Michael Lankes
+- name: Michael Lankes
   group: 1
   photo: michael-lankes.jpg
   phone: +43 (0)50804 22133
@@ -37,7 +39,7 @@
     ]
   areas: [Games and Playful Experiences]
 
-- name: Dr. Jürgen Hagler
+- name: Jürgen Hagler
   group: 1
   photo: juergen-hagler.jpg
   phone: +43 (0)50804 22124
@@ -52,7 +54,7 @@
     ]
   areas: [Games and Playful Experiences]
 
-- name: Jeremiah Diephuis, MA
+- name: Jeremiah Diephuis
   group: 1
   photo: jeremiah-diephuis.jpg
   phone: +43 (0)50804 22122
@@ -72,7 +74,7 @@
     ]
   areas: [Games and Playful Experiences]
 
-- name: Wolfgang Hochleitner, MSc
+- name: Wolfgang Hochleitner
   group: 1
   photo: wolfgang-hochleitner.jpg
   phone: +43 (0)50804 22131
@@ -90,7 +92,7 @@
     ]
   areas: [Games and Playful Experiences]
 
-- name: Andrea Aschauer, MA
+- name: Andrea Aschauer
   group: 3
   photo: andrea-aschauer.jpg
   phone: +43 (0)50804 27166
@@ -98,13 +100,13 @@
   projects: [BAMBI, The Virtual House of Medusa, Bike'N'Play, PIEdeck]
   areas: [Games and Playful Experiences]
 
-- name: Leopold Böss, MSc
+- name: Leopold Böss
   group: 3
   photo: leopold-boess.jpg
   email: leopold.boess@fh-hagenberg.at
   projects: [BAMBI]
 
-- name: Christoph Praschl, MSc
+- name: Christoph Praschl
   group: 3
   phone: +43 (0)50804 27150
   photo: christoph-praschl.jpg
