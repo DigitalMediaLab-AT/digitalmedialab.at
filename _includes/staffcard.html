@@ -4,7 +4,13 @@
       alt="{{ include.data.name | prepend: 'Photo of '}}" style="width: 100px; height: 130px; object-fit: cover;">
   </div>
   <div class="staff-details">
+    {% if include.data.pure %}
+    <a href="https://pure.fh-ooe.at/en/persons/{{include.data.pure}}"">
+    {% endif %}
     <p class="staff-name">{{include.data.name}}</p>
+    {% if include.data.pure %}
+    </a>
+    {% endif %}
     {% if include.data.phone %}
     <p class="staff-phone">{{include.data.phone}}</p>
     {% endif %}
