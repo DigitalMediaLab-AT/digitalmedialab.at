@@ -1,9 +1,9 @@
 - id: 1
-  label: Research Lead & Co-Lead
+  label: Professors (Studienbetrieb)
 - id: 2
-  label: Senior Researchers
+  label: Senior Researchers (not used)
 - id: 3
-  label: Researchers
+  label: Researchers (F&E)
 - id: 4
   label: Junior Researchers
 - id: 5
