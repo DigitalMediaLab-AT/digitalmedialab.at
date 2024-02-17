@@ -45,5 +45,16 @@ layout: page
 
         {{gallery}}
         {{content}}
+
+        <!-- Persons/Team -->
+        {% assign staffInProject = site.data.people | where_exp: "staff", "staff.areas contains page.title" %}
+        {% if staffInProject != empty %}
+        <h2 class="team">Researchers</h2>
+        <ul>
+        {% for staff in staffInProject %}
+        <li> {{staff.name}} </li>
+        {% endfor %}
+        </ul>
+        {% endif %}
     </div>
 </article>
