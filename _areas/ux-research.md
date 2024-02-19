@@ -14,7 +14,7 @@ gallery:
 
     description: "A preview for the research group"
 
-    author: "FH OÖ | David Schedl"
+    author: ""
 ---
 
 
@@ -32,5 +32,5 @@ In the dynamic field of UX research, a diverse array of methodologies and practi
 
 ## Researchers
 
-Kathrin Probst
-Sara Mlakar
+- Kathrin Probst
+- Sara Mlakar
