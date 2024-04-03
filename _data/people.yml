@@ -114,3 +114,13 @@
   photo: christoph-praschl.jpg
   email: christoph.praschl@fh-hagenberg.at
   projects: [BAMBI]
+
+- name: Samuel Zühlke
+  group: 3
+  photo: sam-zuehlke.jpeg
+  email: samuel.zuehlke@fh-hagenberg.at
+  projects: [
+    TEXEDGE,
+    LOOP,
+    REPLIENTAI
+  ]
