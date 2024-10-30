@@ -5,16 +5,12 @@ category: 1
 
 subpage: false
 
-titleimage: "teaser-preview.png"
+titleimage: "UX_prototype.jpg"
 
 gallery:
-  - file: "teaser.png"
+  - file: "UX_prototype.jpg"
 
-    preview: "teaser-preview.png"
-
-    description: "A preview for the research group"
-
-    author: ""
+    preview: "UX_prototype_small.jpg"
 ---
 
 

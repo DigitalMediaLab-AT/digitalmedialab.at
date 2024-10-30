@@ -5,16 +5,29 @@ category: 1
 
 subpage: false
 
-titleimage: "teaser-preview.png"
+titleimage: "SoT_wide.jpg"
 
 gallery:
-  - file: "teaser.png"
+  - file: "Gestures_wide.jpg"
 
-    preview: "teaser-preview.png"
+    preview: "Gestures_150.jpg"
 
-    description: "A preview for the research group"
+    description: "Protoypes of material-based interaction."
 
-    author: ""
+
+  - file: "SoT_wide.jpg"
+
+    preview: "SoT_150.jpg"
+
+    description: "Person interacting with a prototype."
+
+
+  - file: "Textile interaction_wide.jpg"
+
+    preview: "Textile interaction_150.jpg"
+
+    description: "Textile interaction."
+
 ---
 
 # Innovating Human Interaction through Material-Based Research and Design
